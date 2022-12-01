@@ -36,7 +36,8 @@
   },
   "dependencies": {
     "@stdlib/stats-base-dists-truncated-normal-pdf": "^0.0.x",
-    "@stdlib/utils-define-read-only-property": "^0.0.x"
+    "@stdlib/utils-define-read-only-property": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/constants-float64-pi": "^0.0.x",
