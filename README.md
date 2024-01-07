@@ -86,15 +86,11 @@ The namespace contains the following functions for calculating distribution prop
 
 <!-- <toc pattern="*+(entropy|kurtosis|mean|median|mode|skewness|stdev|variance)*"> -->
 
-
-
 <!-- </toc> -->
 
 The namespace contains a constructor function for creating a [truncated normal][truncated-normal-distribution] distribution object.
 
 <!-- <toc pattern="*ctor*"> -->
-
-
 
 <!-- </toc> -->
 
@@ -148,6 +144,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -190,6 +191,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/tree/umd
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/tree/esm
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-truncated-normal/main/LICENSE
 
 [truncated-normal-distribution]: https://en.wikipedia.org/wiki/Truncated_normal_distribution
 
