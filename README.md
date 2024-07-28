@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import truncatedNormal from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@esm/index.mjs';
+import truncatedNormal from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { pdf } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@esm/index.mjs';
+import { pdf } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@v0.2.1-esm/index.mjs';
 ```
 
 #### truncatedNormal
@@ -102,7 +102,7 @@ The namespace contains a constructor function for creating a [truncated normal][
 <body>
 <script type="module">
 
-import truncatedNormal from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@esm/index.mjs';
+import truncatedNormal from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal@v0.2.1-esm/index.mjs';
 
 /*
 * Let's consider an example where we're modeling the heights of astronauts.
