@@ -2,15 +2,41 @@
 
 > Package changelog.
 
-<section class="release" id="v0.2.0">
+<section class="release" id="v0.2.2">
 
-## 0.2.0 (2024-07-28)
+## 0.2.2 (2024-07-28)
 
 <section class="packages">
 
 ### Packages
 
-<section class="package" id="stats-base-dists-truncated-normal-unreleased">
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+## 0.2.1 (2024-07-28)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="stats-base-dists-truncated-normal-v0.2.1">
 
 #### [@stdlib/stats/base/dists/truncated-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/truncated-normal)
 
@@ -52,10 +78,6 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
-
-</section>
-
-<!-- /.release -->
 
 ## 0.1.1 (2024-02-24)
 
