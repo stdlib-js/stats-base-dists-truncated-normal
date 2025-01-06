@@ -159,9 +159,14 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -204,6 +209,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-truncated-normal/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-truncated-normal/main/LICENSE
 
 [truncated-normal-distribution]: https://en.wikipedia.org/wiki/Truncated_normal_distribution
 
